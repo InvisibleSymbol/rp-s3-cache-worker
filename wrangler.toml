@@ -1,0 +1,6 @@
+name = "rp-s3-cache"
+main = "src/index.js"
+compatibility_date = "2022-11-05"
+[[unsafe.bindings]]
+type = "analytics_engine"
+name = "REQUESTS_V2"
